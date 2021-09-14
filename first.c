@@ -3,6 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 
+/* Kaloyan Angelov Github Kaloyannbg */
 
 int main()
 {
